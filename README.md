@@ -2,7 +2,7 @@ This is a private react.js project from Aaron
 
 ## Table of React.js Study
 - [JSX introduction & usage](#JSX-introduction-usage)
-- [Updating to New Releases](#updating-to-new-releases)
+- [Updating to New Releases]
 - [Sending Feedback](#sending-feedback)
 - [Folder Structure](#folder-structure)
 - [Available Scripts](#available-scripts)
